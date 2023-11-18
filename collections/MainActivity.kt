@@ -1,4 +1,4 @@
-package com.example.collections
+package com.example.string_ileri_kotlin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
